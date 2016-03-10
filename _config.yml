@@ -1,6 +1,6 @@
 name: Urban BB
 favicon: null
-layout_spectrum: 0.3306188811548054
+layout_spectrum: 0.25383
 typography_spectrum: 0.5392265063710511
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.16949381097219884
-  lightness: 0.04688615701161325
+  brandStrength: 0.5
+  lightness: 0.4375
   saturation: 0.5941428509540856
   rhythmicContrast: 0.5774208812508732
 purpose: []
