@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T16:56:29.408Z'
-dateModified: '2016-03-10T16:42:42.674Z'
+datePublished: '2016-03-10T18:31:58.747Z'
+dateModified: '2016-03-10T18:27:06.455Z'
 title: 'Deliciousness!'
 author: []
+sourcePath: _posts/2016-03-10-deliciousness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-deliciousness.md
-published: true
 url: deliciousness/index.html
 _type: Article
 
