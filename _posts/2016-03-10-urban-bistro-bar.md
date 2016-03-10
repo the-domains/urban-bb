@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-10T15:39:22.935Z'
-dateModified: '2016-03-10T15:39:16.294Z'
+description: 'Urban is a bistro-bar located next to the Boulevard of San Pedro. It’s a perfect place to meet your friends, watch a football match or fancy a game of pool in a great atmosphere. From 12h to midnight we offer international cuisine, from salads to burgers. Our soft drinks and deliciously brewed coffees give way at night to our wide variety of beers, wines and exceptional cocktails. A unique and sophisticated blend of design, lighting and lounge music will make your visit at the Urban Bistro-Bar a memorable experience. We hope to see you soon!'
+datePublished: '2016-03-10T18:37:35.361Z'
+dateModified: '2016-03-10T18:34:27.653Z'
 title: Urban Bistro-Bar
 author: []
+sourcePath: _posts/2016-03-10-urban-bistro-bar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-urban-bistro-bar.md
-published: true
 url: urban-bistro-bar/index.html
 _type: Article
 
