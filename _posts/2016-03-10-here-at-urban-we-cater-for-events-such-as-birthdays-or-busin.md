@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Here at Urban, we cater for all types of events. If you want to us to organise a company lunch or dinner, we can elaborate a special menu for you. If your birthday is coming up, we can make sure you and your family or friends are happy and well fed. Our selection of beers and cocktails, as well as a delicious international food menu, sports offerings and our beautiful pool table are all good reasons to choose Urban to celebrate your special day.'
-datePublished: '2016-03-10T18:19:03.535Z'
-dateModified: '2016-03-10T18:18:50.269Z'
+datePublished: '2016-03-10T18:31:48.752Z'
+dateModified: '2016-03-10T18:26:23.133Z'
 title: Events
 author: []
 sourcePath: _posts/2016-03-10-here-at-urban-we-cater-for-events-such-as-birthdays-or-busin.md
