@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Urban BB]]></title>
         <description><![CDATA[Urban BB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/urban-bb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 15:40:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 16:56:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/urban-bb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deliciousness!]]></title>
+            <description><![CDATA[<article><h1>Deliciousness!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23114a1ad74bca2b9d321021a3a8e8cfb2911d1a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/urban-bb/deliciousness/index.html</link>
+            <guid isPermaLink="false">29cc1a9d-6bb7-47ab-b949-da17a03b73df</guid>
+            <pubDate>Thu, 10 Mar 2016 16:56:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Urban Bistro-Bar]]></title>
-            <description><![CDATA[<article><h1>Urban Bistro-Bar</h1><p>Urban is a bistro-bar located next to the Boulevard of San Pedro. It’s a perfect place to meet your friends, watch a football match or fancy a game of pool in a great atmosphere. From 12h to midnight we offer international cuisine, from salads to burgers. Our soft drinks and deliciously brewed coffees give way at night to our wide variety of beers, wines and exceptional cocktails. A unique and sophisticated blend of design, lighting and lounge music will make your visit at the Urban Bistro-Bar a memorable experience. We hope to see you soon!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/344bcd0f-24c4-4df4-b7f3-579ef4e2bf40.jpg"></article>]]></description>
-            <link>undefinedurban-bistro-bar/index.html</link>
+            <description><![CDATA[<article><h1>Urban Bistro-Bar</h1><p>Urban is a bistro-bar located next to the Boulevard of San Pedro. It’s a perfect place to meet your friends, watch a football match or fancy a game of pool in a great atmosphere. From 12h to midnight we offer international cuisine, from salads to burgers. Our soft drinks and deliciously brewed coffees give way at night to our wide variety of beers, wines and exceptional cocktails. A unique and sophisticated blend of design, lighting and lounge music will make your visit at the Urban Bistro-Bar a memorable experience. We hope to see you soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b10a817d9240a3eed9078b8a9ed07ccbfeaa1371.jpg"></article>]]></description>
+            <link>https://thegrid.ai/urban-bb/urban-bistro-bar/index.html</link>
             <guid isPermaLink="false">24e05167-d4cc-4578-bd98-68b68657926a</guid>
             <pubDate>Thu, 10 Mar 2016 15:39:22 GMT</pubDate>
         </item>
